@@ -90,9 +90,7 @@ class _CoffeeCardState extends State<CoffeeCard> {
                                     child: Center(
                                       child: Text(
                                         '$_quantity',
-                                        style: Theme.of(context)
-                                            .textTheme
-                                            .labelSmall
+                                        style: TextStyle(color: AppColors.white)
                                       )
                                     )
                                   )
