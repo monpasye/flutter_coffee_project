@@ -1,3 +1,3 @@
 sealed class ImageSources {
-  static const plusIcon = '';
+  static const coffeIcon = 'assets/image1.png';
 }
